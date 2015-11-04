@@ -1,0 +1,21 @@
+
+    <!-- Navigation -->
+	<%= render "navig" %>
+
+
+    <!-- Header -->
+    <%= render "header" %>
+
+    <!-- Page Content -->
+
+	<a  name="services"></a>
+    <%= render "sectionA" %>
+    <%= render "sectionB" %>
+    <%= render "sectionC" %>
+    <%= render "sectionD" %>
+
+
+    <%= render "banner" %>
+    <!-- Footer -->
+    <%= render "footer" %>
+

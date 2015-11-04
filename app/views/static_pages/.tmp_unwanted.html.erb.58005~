@@ -1,0 +1,17 @@
+    <!-- Navigation -->
+	<%= render "navig" %>
+
+
+    <%= render "banner" %>
+    <!-- Page Content -->
+
+	<a  name="services"></a>
+    <%= render "unwanted1" %>
+<%= render "unwanted2" %>
+<%= render "unwanted3" %>
+
+
+
+    <%= render "banner" %>
+    <!-- Footer -->
+    <%= render "footer" %>
